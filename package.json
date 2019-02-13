@@ -1,0 +1,30 @@
+{
+  "name": "bitcoin-repl",
+  "version": "1.0.0",
+  "description": "Bitcoin Read–eval–print loop ( REPL ) for the wire protocol ",
+  "main": "cli.js",
+  "dependencies": {
+    "yargs": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cli.js localhost 18444"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitcoinDeveloperNetwork/bitcoin-repl.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "repl",
+    "cli",
+    "wire",
+    "protocol"
+  ],
+  "author": "gr0kchain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BitcoinDeveloperNetwork/bitcoin-repl/issues"
+  },
+  "homepage": "https://github.com/BitcoinDeveloperNetwork/bitcoin-repl#readme"
+}
